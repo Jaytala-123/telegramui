@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/newGroup"
+        android:title="New group"
+        android:icon="@drawable/ic_baseline_more_vert_24"/>
+
+    <item
+        android:id="@+id/contact"
+        android:title="Contact"
+        android:icon="@drawable/ic_baseline_search_24"/>
+
+    <item
+        android:id="@+id/call"
+        android:title="Call"
+        android:icon="@drawable/ic_baseline_call_24"/>
+
+    <item
+        android:id="@+id/nearby"
+        android:title="People Nearby"
+        android:icon="@drawable/ic_baseline_near_me_24"/>
+
+    <item
+        android:id="@+id/setting"
+        android:title="Setting"
+        android:icon="@drawable/ic_baseline_settings_24"/>
+
+    <item android:title="Other">
+
+        <menu>
+
+        <item android:title="Invite Friends"/>
+
+        <item android:title="Telegram Features"/>
+
+</menu>
+
+    </item>
+
+</menu>
+
+
+
